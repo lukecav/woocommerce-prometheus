@@ -1,2 +1,2 @@
 # woocommerce-prometheus
-Prometheus exporter for WooCommerce
+Prometheus exporter for WooCommerce.
